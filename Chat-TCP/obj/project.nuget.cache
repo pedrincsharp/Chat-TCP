@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Pjv9euPi5KrM4V82QVCcsOE6ccFIHJ3hZvApL87iQPNwgzPWaxAbDATCVzXCJHg18vFrU8gAGme/E9S8HJ9aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao_\\source\\repos\\Chat-TCP\\Chat-TCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao_\\.nuget\\packages\\supersimpletcp\\3.0.11\\supersimpletcp.3.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
